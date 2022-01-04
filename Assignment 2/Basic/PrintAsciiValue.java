@@ -1,4 +1,6 @@
-public class PrintAsciiValueExample1   
+package com.mpstme
+
+public class PrintAsciiValue   
 {  
 public static void main(String[] args) {  
     char ch1 = 'a';  
