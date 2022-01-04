@@ -1,3 +1,5 @@
+package com.mpstme
+
 import Java.util.*;   
 import java.io.*;   
 import java.util.Scanner;  
