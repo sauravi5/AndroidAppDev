@@ -1,4 +1,4 @@
-package com.mpstme
+package com.mpstme;
 
 import java.util.Scanner;
 
