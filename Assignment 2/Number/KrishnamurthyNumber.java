@@ -1,3 +1,5 @@
+package com.mpstme;
+
 import java.util.Scanner;  
   
 class KrishnamurthyNumber {   
