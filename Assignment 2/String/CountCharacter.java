@@ -1,4 +1,4 @@
-package com.mpstme
+package com.mpstme;
 
 public class CountCharacter    
 {    
