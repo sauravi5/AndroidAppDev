@@ -1,4 +1,4 @@
-package com.mpstme
+package com.mpstme;
 
 class Fibonacci{  
 public static void main(String args[]) 
