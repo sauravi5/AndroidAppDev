@@ -1,4 +1,4 @@
-package com.mpstme
+package com.mpstme;
 
 class RotateLeft {  
     public static void main(String[] args) {  
